@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "weekly-articles-to-ticktick",
+      "name": "article2ticktick",
       "description": "解析技术周报 Markdown，批量或单篇添加文章到 TickTick 待办清单，支持自动分类标签",
       "source": "./",
       "strict": false,
