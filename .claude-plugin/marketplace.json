@@ -1,0 +1,22 @@
+{
+  "name": "article2ticktick",
+  "owner": {
+    "name": "Mr.H",
+    "email": ""
+  },
+  "metadata": {
+    "description": "将技术周报文章批量/单篇转换为 TickTick 待办事项的 Claude Skill",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "weekly-articles-to-ticktick",
+      "description": "解析技术周报 Markdown，批量或单篇添加文章到 TickTick 待办清单，支持自动分类标签",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/article2ticktick"
+      ]
+    }
+  ]
+}
