@@ -8,6 +8,18 @@
 
 A Claude Skill that converts technical newsletter articles (batch or single) into [TickTick](https://ticktick.com/) todos with automatic categorization and tagging.
 
+<p align="center">
+  <img width="800" alt="功能截图" src="https://github.com/user-attachments/assets/9dbcd7e9-b3e5-443c-a86f-efa386143390">
+  <br>
+  <em>Effect after adding to TickTick</em>
+</p>
+
+<p align="center">
+  <img width="800" alt="效果演示" src="https://github.com/user-attachments/assets/e699bd9c-d267-4afd-b712-fb497ec0a50a">
+  <br>
+  <em>Batch add to-dos to TickTick</em>
+</p>
+
 ## Features
 
 - **Branch A: Batch Newsletter** — Paste an entire newsletter issue (Fatbobman's Swift Weekly, iOS Weekly, etc.), AI auto-categorizes and batch-adds to TickTick
@@ -117,6 +129,18 @@ python3 skills/article2ticktick/scripts/add_articles.py \
 <a id="chinese"></a>
 
 将技术周报文章（批量或单篇）转换为 [滴答清单](https://dida365.com/) 待办事项的 Claude Skill，支持自动分类和标签。
+
+<p align="center">
+  <img width="800" alt="功能截图" src="https://github.com/user-attachments/assets/9dbcd7e9-b3e5-443c-a86f-efa386143390">
+  <br>
+  <em>添加到滴答清单后的效果</em>
+</p>
+
+<p align="center">
+  <img width="800" alt="效果演示" src="https://github.com/user-attachments/assets/e699bd9c-d267-4afd-b712-fb497ec0a50a">
+  <br>
+  <em>批量添加待办至滴答清单</em>
+</p>
 
 [English](#english) | **中文**
 
